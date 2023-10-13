@@ -1,0 +1,27 @@
+.download-cv-link {
+    background-color: #173731;/* Set your desired background color here */
+    padding: 8px 12px; /* Add padding to style the button */
+    border-radius: 4px; /* Optionally, add border-radius for rounded corners */
+    color: white; /* Set the text color */
+    text-decoration: none;
+    border:1px solid rgb(14 116 144);
+  }
+  
+  .download-cv-link:hover {
+    background-color: #138973;  /* Set the background color for hover state */
+    /* Optionally, you can change the text color on hover */
+    color: white;
+  }
+  .download-cv-links {
+    /* background-color: green; Set your desired background color here */
+    padding: 4px 0px; /* Add padding to style the button */
+    border-radius: 4px; /* Optionally, add border-radius for rounded corners */
+    color: rgb(6, 56, 100); /* Set the text color */
+    text-decoration: none; /* Remove underlines from the link */
+  }
+  
+  .download-cv-links:hover {
+    /* background-color: darkgreen;  */
+    /* Optionally, you can change the text color on hover */
+    color: rgb(27, 131, 223);
+  }
